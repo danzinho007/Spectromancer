@@ -1,0 +1,38 @@
+Spectromancer Cartas Padrão :
+
+-Fogo
+O Tronco = 1/4/16
+Cabana de Goblinks = 2/0/5
+Bola de Fogo = 6
+Cachorro de Lava = 10//?/36
+
+-Água
+Blue Bull = 1
+Servo = 2/2/22
+Morteiro = 3/3/10
+Tesla = 5/3/16
+Golem de Gelo = 6/3/20
+Mini PEKKA = 7/5/17
+Chuva de Gelo = 8
+Horda de Servos = 9/8/35
+Eletrecutadores = 10/?/37
+Mestre Real = 12/4/18
+
+-Vento
+Mineiro = 1/4/12
+Zap = 3
+Lenhador = 4/4/19
+Cabana de Bárbaros = 5/0/32
+Fúria do Rei = 6
+Cavaleiro = 7/7/16
+Ciclone = 10
+Bárbaro de Elite = 11/?/44
+
+-Terra
+Pequimento = 2
+Gangue de Goblins = 7/4/24
+Dragão Neném = 8/6/26
+Barril Aéreo = 9
+Dragão Solado = 10/7/50
+Dobradora = 11/3/34
+Patifes = 12/3/4
